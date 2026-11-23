@@ -1,0 +1,24 @@
+# Tech Challenge - Fase 4: Monitoramento Multimodal Hospitalar (100% Open Source)
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.12.0
+scikit-learn>=1.4.0
+pydantic>=2.10.0
+requests>=2.31.0
+
+# Visão Computacional (OpenPose / Pose Estimation + YOLOv8)
+opencv-python>=4.9.0
+ultralytics>=8.1.0
+
+# Áudio, Biomarcadores Vocais e Speech-to-Text Open Source
+librosa>=0.10.1
+soundfile>=0.12.1
+faster-whisper>=1.0.0
+
+# Interface Visual, CLI e Gráficos
+streamlit>=1.35.0
+plotly>=5.20.0
+rich>=13.7.0
+
+# Testes Automatizados
+pytest>=8.0.0

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+data/raw/*.mp4
+data/raw/*.wav
+data/raw/*.csv
+data/processed/
+models/*.pt
+logs/*.jsonl
+.env
+*.sqlite
